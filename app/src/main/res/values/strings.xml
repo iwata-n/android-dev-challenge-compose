@@ -10,4 +10,7 @@
       the License.
       -->
     <string name="app_name">AndroidDevChallenge</string>
+
+    <string name="unknown">Unknown</string>
+    <string name="not_found">Not Found.</string>
 </resources>
